@@ -1,6 +1,6 @@
 # Projeto de API REST de Triagem
 
-Este projeto é uma API REST desenvolvida em Java usando o framework Spring Boot. Ele é destinado para gerenciar triagens, permitindo criar, ler, atualizar e deletar registros.
+Este projeto é uma API REST desenvolvida em Java usando o framework Spring Boot. Ele é destinado para gerenciar currículos, permitindo criar, ler, atualizar e deletar registros.
 
 ## Estrutura do Projeto
 
